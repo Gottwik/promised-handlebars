@@ -1,5 +1,5 @@
 {
-  "name": "promised-handlebars",
+  "name": "promised-handlebars-gottwik",
   "version": "2.0.1",
   "description": "Wrapper for Handlebars that allows helpers returning promises",
   "repository": {
